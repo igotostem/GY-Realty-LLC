@@ -175,6 +175,22 @@ body {
   color: #28285B;
 }
 
+.section-heading h3 {
+  font-size: 20px;
+  font-weight: 800;
+  color: #232d39;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.section-heading h3 em {
+  font-style: normal;
+  color: #28285B;
+}
+
+
 .section-heading img {
   margin: 20px auto;
 }
